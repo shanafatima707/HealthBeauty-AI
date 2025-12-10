@@ -1,5 +1,3 @@
-# HealthBeauty-AI
-AI-powered Health &amp; Beauty platform with clinic management and personalized recommendations
 # HealthBeauty AI – AI-Powered Health & Beauty Platform
 
 A full-stack web application that combines dental clinic management with an AI-driven cosmetics e-commerce store.
