@@ -1,0 +1,25 @@
+{
+  "name": "healthbeauty-api",
+  "version": "1.0.0",
+  "description": "Production-grade backend for HealthBeauty AI platform",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": ["health", "beauty", "ai", "clinic", "ecommerce"],
+  "author": "Shana Fatima",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "mysql2": "^3.11.0",
+    "mongoose": "^8.6.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
